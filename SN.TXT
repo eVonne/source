@@ -1,7 +1,0 @@
-在Microsoft Office 2003 免激活版的基础上集成了官方的Sp1升级包，包含了Office11组件及FrontPage2003，免序列号，支持在线更新。
-
-本光盘提供了两种安装模式：
-1、自动模式：只安装最常用的Office组件，如Word、Excel、PowerPoint和Access；
-2、手动模式：可以自由选择安装所需要的Office组件。
-
-                                           d0z@FtpDown
